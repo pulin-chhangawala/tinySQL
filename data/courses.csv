@@ -1,0 +1,19 @@
+course_id,course_name,student_id,grade
+CS101,Intro to CS,1,A
+CS101,Intro to CS,2,B+
+CS101,Intro to CS,3,B
+CS201,Data Structures,1,A-
+CS201,Data Structures,7,B+
+CS201,Data Structures,11,A
+CS301,Algorithms,1,A
+CS301,Algorithms,15,B+
+MATH201,Linear Algebra,4,A
+MATH201,Linear Algebra,8,B
+MATH201,Linear Algebra,12,A-
+DS101,Intro to Data Science,2,A
+DS101,Intro to Data Science,5,A-
+DS101,Intro to Data Science,9,A
+DS101,Intro to Data Science,13,B+
+PHYS101,Mechanics,6,C+
+PHYS101,Mechanics,10,B
+PHYS101,Mechanics,14,B+

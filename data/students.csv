@@ -1,0 +1,16 @@
+id,name,major,gpa,year
+1,Alice,Computer Science,3.9,2025
+2,Bob,Data Science,3.5,2026
+3,Charlie,Computer Science,3.2,2027
+4,Diana,Mathematics,3.8,2025
+5,Eve,Data Science,3.7,2026
+6,Frank,Physics,2.9,2027
+7,Grace,Computer Science,3.6,2025
+8,Hank,Mathematics,3.1,2026
+9,Ivy,Data Science,3.95,2025
+10,Jack,Physics,3.4,2027
+11,Karen,Computer Science,3.3,2026
+12,Leo,Mathematics,3.85,2025
+13,Mia,Data Science,3.0,2027
+14,Nick,Physics,3.55,2026
+15,Olivia,Computer Science,3.75,2025
